@@ -1,4 +1,4 @@
-👋 Hi, I’m @alchipak, a seasoned WordPress Plugin Developer with over a decade of systems analysis experience. Welcome to my repository, where I showcase my expertise in creating high-quality WordPress plugins. These plugins are designed for artificial intelligence integrations, RPA automations, and to enhance daily publications.
+👋 Hi, I’m Anderson Luiz Chipak (@alchipak), a seasoned WordPress Plugin Developer with over a decade of systems analysis experience. Welcome to my repository, where I showcase my expertise in creating high-quality WordPress plugins. These plugins are designed for artificial intelligence integrations, RPA automations, and to enhance daily publications.
 
 Key Features:
 - AI-centric plugins for automated content creation.
